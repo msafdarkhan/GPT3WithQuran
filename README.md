@@ -12,6 +12,7 @@ Purpose of this research
  - Does GPT3 replace Mufti and Islamic Scholars in future?
 
 Generative Pre-trained Transformer 3 (GPT-3) is an autoregressive language model that uses deep learning to produce human-like text. It is the third-generation language prediction model in the GPT-n series (and the successor to GPT-2) created by OpenAI, a San Francisco-based artificial intelligence research laboratory. GPT-3's full version has a capacity of 175 billion machine learning parameters. GPT-3, which was introduced in May 2020, and was in beta testing as of July 2020, is part of a trend in natural language processing (NLP) systems of pre-trained language representations.[[1](https://en.wikipedia.org/wiki/GPT-3)]
+
 **GPT3** is currently in **Beta** state and Eveery one have no access to this super massive AI model and worlds smartest Super cumputer. But I was Damn Lucky **Pakistani** who get access for this model on 17th of Novermber 2020. It take a long time to understand this model code for this and finnly research through this model. It is suepr impressive model if you ask questions to GPT3 you will be shoked by his answers and you will consider for some time maybe a real person is talikng to you because GPT3 is one of the model who can analyze pattren and talk to you as like he understand you or his discussion contain feeling. 
 
 # Application
