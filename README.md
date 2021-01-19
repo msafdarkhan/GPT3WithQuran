@@ -15,11 +15,11 @@ Generative Pre-trained Transformer 3 (GPT-3) is an autoregressive language model
 
 **GPT3** is currently in **Beta** state and Eveery one have no access to this super massive AI model and worlds smartest Super cumputer. But I was Damn Lucky **Pakistani** who get access for this model on 17th of Novermber 2020. It take a long time to understand this model code for this and finnly research through this model. It is suepr impressive model if you ask questions to GPT3 you will be shoked by his answers and you will consider for some time maybe a real person is talikng to you because GPT3 is one of the model who can analyze pattren and talk to you as like he understand you or his discussion contain feeling. 
 
-# Application
-  - Code Oracle - Not only can GPT-3 generate code for you, but it can also comprehend the code written by you. Here is an example where GPT-3 explains the code written in Python in detail.[[x](https://twitter.com/amasad/status/1285789362647478272)]
+# Some applications of GPT3
+  - **Code Oracle** - Not only can GPT-3 generate code for you, but it can also comprehend the code written by you. Here is an example where GPT-3 explains the code written in Python in detail.[[x](https://twitter.com/amasad/status/1285789362647478272)]
   - **The Philosopher** - A lot has been discussed about the pros and cons of GPT-3. What happens when the AI itself turns into a philosopher and answers questions about the effects of GPT on humanity? Here is an example where the GPT-3 writes an essay explaining itself to humanity and how it will affect humankind. [[x](https://twitter.com/raphamilliere/status/1289129723310886912)]  
-  - GPT-3 has been used by Andrew Mayne for AI Writer,[[x](https://www.aiwriter.app/)] which allows people to correspond with historical figures via email.
-  - GPT-3 has been used by Jason Rohrer in a retro-themed chatbot project named "Project December", which is accessible online and allows users to converse with several AIs using GPT-3 technology.[[x](https://en.wikipedia.org/wiki/Jason_Rohrer)]
-  - GPT-3 was used by The Guardian to write an article about AI being harmless to human beings. It was fed some ideas and produced eight different essays, which were ultimately  merged into one article.[[x](https://www.theguardian.com/commentisfree/2020/sep/08/robot-wrote-this-article-gpt-3)]
-  - GPT-3 is used in AI Dungeon, which generates text-based adventure games.[[x](https://en.wikipedia.org/wiki/AI_Dungeon)]
+  - GPT-3 has been used by Andrew Mayne for **AI Writer**,[[x](https://www.aiwriter.app/)] which allows people to correspond with historical figures via email.
+  - GPT-3 has been used by Jason Rohrer in a retro-themed chatbot project named **"Project December"**, which is accessible online and **allows users to converse with several AIs** using GPT-3 technology.[[x](https://en.wikipedia.org/wiki/Jason_Rohrer)]
+  - GPT-3 was used by The Guardian to **write an article** about AI being harmless to human beings. It was fed some ideas and produced eight different essays, which were ultimately  merged into one article.[[x](https://www.theguardian.com/commentisfree/2020/sep/08/robot-wrote-this-article-gpt-3)]
+  - GPT-3 is used in AI Dungeon, which **generates text-based adventure games**.[[x](https://en.wikipedia.org/wiki/AI_Dungeon)]
   - and a number of [other](https://www.educative.io/blog/top-uses-gpt-3-deep-learning) 
