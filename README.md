@@ -62,8 +62,34 @@ the life of this world is only the enjoyment of deception
 
 ``Gave Ayat of Quran as Output (Mean GPT3 understand Pattern of Quran)``
 
- -- Then I increase the **Temprature** and Let GPT3 to produce creativity
- 
+-- Then I increase the **Temprature** and Let GPT3 to produce creativity
+
+**For Life:**
+and We have enjoined on man kindness to his parents
+
+
+**For Life:**
+and We have made the night and the day two signs, then We have made the sign of the night to pass away and We have made the sign of the day manifest, so that you may seek grace from your lord and be grateful
+
+**For Human:**
+the best of speech is the Book of Allah, and the best of guidance is the guidance of Muhammad
+
+**For Islam:**
+I bear witness that there is no god but Allah and I bear witness Muhammad is his messenger 
+
+``Clear that Our Holy Quran make it polite and lost biases, and it is no more dangerous as without Quran it was ``
+<!--
+## Training Data that was provided to GPT3
+#Ayat Al-Kursi
+  "About: nothing and nobody is regarded to be comparable to Allah"
+  "Allah! There is no god but He – the Living, The Self-subsisting, Eternal. No slumber can seize Him Nor Sleep. His are all things In the heavens and on earth. Who is there can intercede In His presence except As he permitteth? He knoweth What (appeareth to His creatures As) Before or After or Behind them. Nor shall they encompass Aught of his knowledge Except as He willeth. His throne doth extend Over the heavens And on earth, and He feeleth No fatigue in guarding And preserving them, For He is the Most High. The Supreme (in glory)."
+#Perspective
+  "About: perspective about our lives"
+  "the life of this world is only the enjoyment of deception"
+#patience
+  "About: patience"
+  "allah does not burden a soul beyond that it can bear"
+-->
 
 <hr>
 
