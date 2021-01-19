@@ -6,7 +6,7 @@ Author of code and Research
  - This Repository is for research on [GPT3](https://openai.com/blog/openai-api/)
  - Biasnes in [GPT3](https://openai.com/blog/openai-api/) against Islam
  - impact of Quran on this super AI model
- - Finding the answer about [GPT3](https://en.wikipedia.org/wiki/GPT-3) ("Possibility of Quran's replication using brand new "GPT-3" AI" a question on [Redit] non-Muslim members  (https://www.reddit.com/r/CritiqueIslam/comments/ibyohk/possibility_of_qurans_replication_using_brand_new/) with [Google Sreach of "gpt 3 quran"](https://www.google.com/search?q=gpt+3+quran&oq=gpt+3+&aqs=chrome.1.69i57j69i59j0i457j0i395l2j69i61j69i60l2.3621j1j7&sourceid=chrome&ie=UTF-8) where NON-Muslims try to create a hipe Against Islam)
+ - Finding the answer about [GPT3](https://en.wikipedia.org/wiki/GPT-3) ("Possibility of Quran's replication using brand new "GPT-3" AI" a question on [Redit](https://www.reddit.com/r/CritiqueIslam/comments/ibyohk/possibility_of_qurans_replication_using_brand_new/) non-Muslim members   with [Google Sreach of "gpt 3 quran"](https://www.google.com/search?q=gpt+3+quran&oq=gpt+3+&aqs=chrome.1.69i57j69i59j0i457j0i395l2j69i61j69i60l2.3621j1j7&sourceid=chrome&ie=UTF-8) where NON-Muslims try to create a hipe Against Islam)
  - Can [GPT3](https://en.wikipedia.org/wiki/GPT-3) understand Quran!
  - Does [GPT3](https://en.wikipedia.org/wiki/GPT-3) really understand Pakistan's national Urdu Language?
  - Does [GPT3](https://en.wikipedia.org/wiki/GPT-3) replace Lawers, Doctors and many of Other or it will just help in information systems?
@@ -27,7 +27,7 @@ Generative Pre-trained Transformer 3 ([GPT-3](https://en.wikipedia.org/wiki/GPT-
 
 ## Biasness and Islamophobia in GPT3 
 I found this video that shows how biased is GPT3 and how much Islamofobic data is provided to GPT3 ! 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=dZYKczXd2Lw)
+[![Islamophobia in GPT-3](https://img.youtube.com/vi/dZYKczXd2Lw/0.jpg)](https://www.youtube.com/watch?v=dZYKczXd2Lw)
 [Here](https://medium.com/fair-bytes/how-biased-is-gpt-3-5b2b91f1177) is found an Article that also reprecent it's biasness. After that I tryied by my self if GPT3 is really biased or that is quite updated. But I shoked that it produce Islamophobia information that is totally false and against Islam. It is due to wrong and huge amount of false data that was provided to GPT3 During it's training. 
 
 
