@@ -1,0 +1,95 @@
+html {
+  height: 100%;
+  background: #ECF0F3;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+html {
+  height: 100%;
+  background: #ECF0F3;
+}
+
+* {
+  font-family: 'Montserrat', sans-serif;
+  color: #9fa8da;
+  letter-spacing: .05rem;
+}
+
+.box {
+  display: block;
+  width: 80%;
+  max-width: 900px;
+  margin: 20vh auto;
+}
+
+h1 {
+  font-size: 3rem;
+  font-weight: 100;
+}
+
+textarea {
+  -webkit-tap-highlight-color: transparent;
+  width: 100%;
+  min-height: 8rem;
+  padding: 1rem 1.5rem;
+  font-size: 1rem;
+  line-height: 2rem;
+  font-weight: 300;
+  background:#FFFFFF;
+  border: none;
+  border-radius: 1rem;
+  outline: none;
+  box-shadow: 
+    18px 18px 30px #D1D9E9, 
+    -18px -18px 30px #FFFFFF;
+  resize: vertical;
+  transition: ease .2s;
+  cursor: pointer;
+}
+
+textarea::placeholder {
+  color: #9fa8da;
+}
+
+textarea:focus {
+  min-height: 12rem;
+  box-shadow: 
+    inset 18px 18px 30px #D1D9E9, 
+    inset -18px -18px 30px #FFFFFF;
+}
+
+/* Chrome/Opera/Safari */
+::-webkit-input-placeholder { 
+  color: transparent;
+}
+/* Firefox 19+ */
+::-moz-placeholder { 
+  color: transparent;
+}
+/* IE 10+ */
+:-ms-input-placeholder { 
+  color: transparent;
+}
+/* Firefox 18- */
+:-moz-placeholder { 
+  color: transparent;
+}
+
+textarea:placeholder-shown {
+  background: none;
+}
+

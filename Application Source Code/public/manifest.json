@@ -1,0 +1,9 @@
+{
+  "short_name": "GPT-3 Quran",
+  "name": "GPT-3 Quran",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
