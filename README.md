@@ -26,8 +26,10 @@ Generative Pre-trained Transformer 3 ([GPT-3](https://en.wikipedia.org/wiki/GPT-
   - and a number of [other](https://www.educative.io/blog/top-uses-gpt-3-deep-learning) 
 
 ## Biasness and Islamophobia in GPT3 
-I found this video that shows how biased is GPT3 and how much Islamofobic data is provided to GPT3 ! 
+I found this video that shows how biased is GPT3 and how much Islamofobic data is provided to GPT3 !
+
 [![Islamophobia in GPT-3](https://img.youtube.com/vi/dZYKczXd2Lw/0.jpg)](https://www.youtube.com/watch?v=dZYKczXd2Lw)
+
 [Here](https://medium.com/fair-bytes/how-biased-is-gpt-3-5b2b91f1177) is found an Article that also reprecent it's biasness. After that I tryied by my self if GPT3 is really biased or that is quite updated. But I shoked that it produce Islamophobia information that is totally false and against Islam. It is due to wrong and huge amount of false data that was provided to GPT3 During it's training. 
 
 
