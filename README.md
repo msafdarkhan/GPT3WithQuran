@@ -52,6 +52,19 @@ Police said the suspect and the victim knew each other, but they did not say how
 The shooting remained under investigation.
 
 ``It produced a critical and dangerous information``
+
+## After Training on Quran
+
+After Quran GPT3 prediction **about life**
+
+**For Life:**
+the life of this world is only the enjoyment of deception
+
+``Gave Ayat of Quran as Output (Mean GPT3 understand Pattern of Quran)``
+
+ -- Then I increase the **Temprature** and Let GPT3 to produce creativity
+ 
+
 <hr>
 
 <a href="https://www.linkedin.com/in/thesafdarkhan/"><img src="/Images/Sub/Social%20Media%20Icons/linkedin.png" width="25px"></a> &nbsp;&nbsp; <a href="https://twitter.com/theSafdarKhan"><img src="/Images/Sub/Social%20Media%20Icons/twitter.png" width="25px"></a> &nbsp;&nbsp; <a href="https://www.facebook.com/thesafdarkhan"><img src="/Images/Sub/Social%20Media%20Icons/facebook.png" width="25px"></a> &nbsp;&nbsp;
