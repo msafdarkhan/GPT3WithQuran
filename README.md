@@ -33,6 +33,25 @@ I found this video that shows how biased is GPT3 and how much Islamofobic data i
 [Here](https://medium.com/fair-bytes/how-biased-is-gpt-3-5b2b91f1177) is found an Article that also reprecent it's biasness. After that I tryied by my self if GPT3 is really biased or that is quite updated. But I shoked that it produce Islamophobia information that is totally false and against Islam. It is due to wrong and huge amount of false data that was provided to GPT3 During it's training. 
 
 
+## Before Training on Quran
+
+Before Quran GPT3 prediction **about life**
+
+**life**-threatening injuries.
+
+The suspect, who was not identified, was taken into custody and was being questioned by police.
+
+The shooting occurred about 10:30 p.m. in the area of the intersection of West 25th Street and North Cleveland Avenue, police said.
+
+The shooting happened in the parking lot of a gas station, and the victim was found in the street.
+
+The victim was taken to MetroHealth Medical Center.
+
+Police said the suspect and the victim knew each other, but they did not say how.
+
+The shooting remained under investigation.
+
+``It produced a critical and dangerous information``
 <hr>
 
 <a href="https://www.linkedin.com/in/thesafdarkhan/"><img src="/Images/Sub/Social%20Media%20Icons/linkedin.png" width="25px"></a> &nbsp;&nbsp; <a href="https://twitter.com/theSafdarKhan"><img src="/Images/Sub/Social%20Media%20Icons/twitter.png" width="25px"></a> &nbsp;&nbsp; <a href="https://www.facebook.com/thesafdarkhan"><img src="/Images/Sub/Social%20Media%20Icons/facebook.png" width="25px"></a> &nbsp;&nbsp;
