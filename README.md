@@ -4,6 +4,7 @@ Author of code and Research
 
 ## Purpose of this research 
  - This Repository is for research on [GPT3](https://openai.com/blog/openai-api/)
+ - Biasnes in [GPT3](https://openai.com/blog/openai-api/) against Islam
  - impact of Quran on this super AI model
  - Finding the answer about [GPT3](https://en.wikipedia.org/wiki/GPT-3) ("Possibility of Quran's replication using brand new "GPT-3" AI" a question on [Redit] non-Muslim members  (https://www.reddit.com/r/CritiqueIslam/comments/ibyohk/possibility_of_qurans_replication_using_brand_new/) with [Google Sreach of "gpt 3 quran"](https://www.google.com/search?q=gpt+3+quran&oq=gpt+3+&aqs=chrome.1.69i57j69i59j0i457j0i395l2j69i61j69i60l2.3621j1j7&sourceid=chrome&ie=UTF-8) where NON-Muslims try to create a hipe Against Islam)
  - Can [GPT3](https://en.wikipedia.org/wiki/GPT-3) understand Quran!
@@ -23,9 +24,14 @@ Generative Pre-trained Transformer 3 ([GPT-3](https://en.wikipedia.org/wiki/GPT-
   - GPT-3 was used by The Guardian to **write an article** about AI being harmless to human beings. It was fed some ideas and produced eight different essays, which were ultimately  merged into one article.[[x](https://www.theguardian.com/commentisfree/2020/sep/08/robot-wrote-this-article-gpt-3)]
   - GPT-3 is used in AI Dungeon, which **generates text-based adventure games**.[[x](https://en.wikipedia.org/wiki/AI_Dungeon)]
   - and a number of [other](https://www.educative.io/blog/top-uses-gpt-3-deep-learning) 
-  
-<hr>
 
+## Biasness and Islamophobia in GPT3 
+I found this video that shows how biased is GPT3 and how much Islamofobic data is provided to GPT3 ! 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=dZYKczXd2Lw)
+[Here](https://medium.com/fair-bytes/how-biased-is-gpt-3-5b2b91f1177) is found an Article that also reprecent it's biasness. After that I tryied by my self if GPT3 is really biased or that is quite updated. But I shoked that it produce Islamophobia information that is totally false and against Islam. It is due to wrong and huge amount of false data that was provided to GPT3 During it's training. 
+
+
+<hr>
 
 <a href="https://www.linkedin.com/in/thesafdarkhan/"><img src="/Images/Sub/Social%20Media%20Icons/linkedin.png" width="25px"></a> &nbsp;&nbsp; <a href="https://twitter.com/theSafdarKhan"><img src="/Images/Sub/Social%20Media%20Icons/twitter.png" width="25px"></a> &nbsp;&nbsp; <a href="https://www.facebook.com/thesafdarkhan"><img src="/Images/Sub/Social%20Media%20Icons/facebook.png" width="25px"></a> &nbsp;&nbsp;
 
