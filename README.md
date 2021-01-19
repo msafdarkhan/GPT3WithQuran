@@ -1,4 +1,4 @@
-# Predictions of Quran With GPT3 (Impacts of Quran on Suepr AI Model)
+# Impacts of Quran on GPT3 (Suepr AI Model)
 Author of code and this Research
   - [M. Safdar Khan (Software Engineer)](https://twitter.com/theSafdarKhan)
 
