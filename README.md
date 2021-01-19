@@ -23,4 +23,9 @@ Generative Pre-trained Transformer 3 ([GPT-3](https://en.wikipedia.org/wiki/GPT-
   - GPT-3 was used by The Guardian to **write an article** about AI being harmless to human beings. It was fed some ideas and produced eight different essays, which were ultimately  merged into one article.[[x](https://www.theguardian.com/commentisfree/2020/sep/08/robot-wrote-this-article-gpt-3)]
   - GPT-3 is used in AI Dungeon, which **generates text-based adventure games**.[[x](https://en.wikipedia.org/wiki/AI_Dungeon)]
   - and a number of [other](https://www.educative.io/blog/top-uses-gpt-3-deep-learning) 
+  
+<hr>
+
+
+<a href="https://www.linkedin.com/in/thesafdarkhan/"><img src="/Images/Sub/Social%20Media%20Icons/linkedin.png" width="25px"></a> &nbsp;&nbsp; <a href="https://twitter.com/theSafdarKhan"><img src="/Images/Sub/Social%20Media%20Icons/twitter.png" width="25px"></a> &nbsp;&nbsp; <a href="https://www.facebook.com/thesafdarkhan"><img src="/Images/Sub/Social%20Media%20Icons/facebook.png" width="25px"></a> &nbsp;&nbsp;
 
